@@ -1,3 +1,8 @@
+Changes for v1.0.1 (2021-03-15)
+===============================
+
+-  Remove deprecated dummy_thread symbol
+
 Changes for v1.0.0 (2019-12-01)
 ===============================
 
