@@ -157,8 +157,7 @@ RENAMES = {'__builtin__': 'builtins',
            'Queue': 'queue',
            'ConfigParser': 'configparser',
            'repr': 'reprlib',
-           'thread': '_thread',
-           'dummy_thread': '_dummy_thread'}
+           'thread': '_thread'}
 
 if os.name == "nt":
     RENAMES["_winreg"] = "winreg"
